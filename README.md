@@ -1,3 +1,3 @@
-# dr.sunnyjungkim.github.io
 Sunny Jung Kim's page
+
 Dr. Kim is an e-health communication scholar specializing in theory-based social, mobile, and AI technologies for health promotion and their impact on the social and psychological mechanisms of behavior change. Her research integrates principles from Communication and Social Psychology to understand health phenomena and disseminate effective interventions and messages to hard-to-reach, at-risk populations. Dr. Kim's work includes digital technology-based public health campaigns, behavioral interventions, recruitment and engagement strategies, and observational research focused on cancer prevention and control, as well as other public health issues such as drug addiction. Her research has been recognized with the Promising Anson Rowe Award, presented to the top student in the Department of Communication at Cornell University, and with Top Paper awards at international conferences.
