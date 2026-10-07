@@ -142,7 +142,7 @@
         <p class="kicker">${val(PROFESSOR.title)} · ${esc(SITE.department)}</p>
         ${PROFESSOR.bio.map((b) => `<p>${val(b)}</p>`).join("")}
         ${PROFESSOR.education.length ? `<h3>Education</h3><ul class="plain">` +
-          PROFESSOR.education.map((e) => `<li>${val(e.degree)}, ${val(e.school)} (${val(e.year)})</li>`).join("") + `</ul>` : ""}
+          PROFESSOR.education.map((e) => `<li>${val(e.degree)}, ${val(e.school)} ${e.year ? ` (${val(e.year)})` : ""}</li>` ).join("") + `</ul>` : ""}
         <p class="contact-line">
           ${PROFESSOR.email ? `✉ <a href="mailto:${esc(PROFESSOR.email)}">${val(PROFESSOR.email)}</a>` : ""}
           ${PROFESSOR.office ? ` · 📍 ${val(PROFESSOR.office)}` : ""}
