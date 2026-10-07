@@ -12,7 +12,7 @@ const SITE = {
   university: "Dr. Sunny Jung Kim",
   department: "Social and Behavioral Sciences",
   universityUrl: "https://sph.vcu.edu/about/portfolio/details/sjkim2/",
-  logoUrl: "C:\Users\sjkim2\Downloads\dhc_logo.jpg",               // optional: URL or local path to your lab logo
+  logoUrl: "C:/Users/sjkim2/Downloads/dhc_logo.jpg",               // optional: URL or local path to your lab logo
   address: "[Building & Room, Street Address, City, Country]",
   email: "[lab-email@university.edu]",
   twitter: "",               // e.g. "https://x.com/yourhandle" — leave "" to hide
