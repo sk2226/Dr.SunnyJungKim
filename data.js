@@ -85,15 +85,19 @@ const RESEARCH = {
 /* ---------------- PEOPLE ---------------- */
 const PEOPLE = {
   students: [
-    { name: "[Student Name]", role: "[Ph.D. Student]", topic: "[Thesis topic]", since: "[YYYY]", photo: "", website: "" },
-    { name: "[Student Name]", role: "[M.S. Student]", topic: "[Project topic]", since: "[YYYY]", photo: "", website: "" },
-    { name: "[Student Name]", role: "[Undergraduate Researcher]", topic: "[Project topic]", since: "[YYYY]", photo: "", website: "" },
+    { name: "Farnese Motto", role: "Ph.D. Candidate", topic: "[Thesis topic]", since: "[YYYY]", photo: "", website: "" },
+    { name: "Afua twumasi", role: "Ph.D. Student", topic: "[Project topic]", since: "[YYYY]", photo: "", website: "" },
+    { name: "Emiolakan Oyeneyin", role: "Ph.D. Student", topic: "[Project topic]", since: "[YYYY]", photo: "", website: "" },
+    { name: "Lindsey Debosik", role: "Ph.D. Student", topic: "[Project topic]", since: "[YYYY]", photo: "", website: "" },
     // copy a block to add more; an empty array [] removes this section
   ],
   visitors: [],   // optional: { name, role, affiliation, period }
   staff: [],      // optional: { name, role, topic }
   alumni: [
     { name: "[Alumni Name]", role: "[Ph.D. 2023]", now: "[Now: Postdoc at University X / Engineer at Company Y]" },
+       { name: "[Alumni Name]", role: "[Ph.D. 2023]", now: "[Now: Postdoc at University X / Engineer at Company Y]" },
+       { name: "[Alumni Name]", role: "[Ph.D. 2023]", now: "[Now: Postdoc at University X / Engineer at Company Y]" },
+       { name: "[Alumni Name]", role: "[Ph.D. 2023]", now: "[Now: Postdoc at University X / Engineer at Company Y]" },
     // copy a block to add more; an empty array [] removes this section
   ],
 };
