@@ -42,8 +42,8 @@ const PROFESSOR = {
 
 /* ---------------- NEWS ---------------- */
 const NEWS = [
-  { date: "[YYYY-MM-DD]", text: "[Recent highlight, e.g. 'Our paper was accepted to [Conference Name]']" },
-  { date: "[YYYY-MM-DD]", text: "[Another item, e.g. 'Welcome new Ph.D. student [Name]' or 'Received [Grant] funding']" },
+  { date: "2026-09-14", text: "Drs. Tossas and Kim Receive ACS Grant to Launch Cancer Health Engagement and Action Research Center", website:"https://blogs.vcu.edu/sbs/2026/09/14/new-grant-awarded-for-cancer-health-engagement-and-action-research-center/ "},
+  { date: "2026-09-01", text: "Two Ph.D. students, Lindsey Debosik and Emiolakan Oyeneyin join the lab" },
   // add more: { date: "...", text: "..." },
 ];
 
