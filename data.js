@@ -8,16 +8,16 @@
 const SITE = {
   labName: "Digital Health Communication",
   shortName: "Digital Health Communication Lab",
-  tagline: "Innovative and Rigorous Digital Health Communication Research for Public Health",
+  tagline: "Innovative & Rigorous Digital Health Communication Research for Public Health",
   university: "Dr. Sunny Jung Kim",
   department: "Social and Behavioral Sciences",
   universityUrl: "https://sph.vcu.edu/about/portfolio/details/sjkim2/",
   logoUrl: "C:/Users/sjkim2/Downloads/dhc_logo.jpg",               // optional: URL or local path to your lab logo
-  address: "[Building & Room, Street Address, City, Country]",
-  email: "[lab-email@university.edu]",
-  twitter: "",               // e.g. "https://x.com/yourhandle" — leave "" to hide
+  address: "Virginia, USA",
+  email: "[eHealth@vcu.edu]",
+  twitter: "https://x.com/SunnyJungKim",               // e.g. "https://x.com/yourhandle" — leave "" to hide
   github: "",                // e.g. "https://github.com/yourlab" — leave "" to hide
-  lastUpdated: "[Month Year]",
+  lastUpdated: "[October 2026]",
 };
 
 const PROFESSOR = {
