@@ -34,10 +34,10 @@ const PROFESSOR = {
     "My research focuses on translating theories and principles from communication and psychology into innovative research approaches, drawing on social and behavioral science methodologies to examine communication processes that explain public health phenomena and influence health behavior. My work particularly focuses on cancer prevention and control and substance use and addiction. In conducting this research, I enjoy leveraging media technologies and emerging innovations, along with statistical and linguistic analyses, to predict health outcomes and understand the mechanisms underlying health behaviors and communication processes.", 
      "During my predoctoral and postdoctoral training at Cornell and Dartmouth, I was trained by and collaborated with scholars across psychology, health communication, text analysis, quantitative and qualitative methodologies, statistics, psychiatry, population science, and preventive oncology. This interdisciplinary training has shaped the breadth of methodological and research skills I bring to my work and, in turn, to my mentorship. I train graduate students in these skills, helping them develop the interdisciplinary perspectives and methodological expertise needed to pursue their own research questions.",
   ,
-  education: 
+  education: [
     {degree: "Ph.D. and M.S. in Communication", school: "Cornell University"},
     {degree: "M.A. in Media, Culture, and Communication", school: "New York University"},
-  
+   ],
 };
 
 /* ---------------- NEWS ---------------- */
