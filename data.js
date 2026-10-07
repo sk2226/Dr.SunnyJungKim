@@ -6,7 +6,7 @@
    ============================================================ */
 
 const SITE = {
-  labName: "[Lab Name]",
+  labName: "[Digital Health Communication]",
   shortName: "[Lab]",
   tagline: "[One-line description of what your lab studies, e.g. 'Machine learning for healthcare']",
   university: "[University Name]",
