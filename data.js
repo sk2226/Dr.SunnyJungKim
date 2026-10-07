@@ -6,11 +6,11 @@
    ============================================================ */
 
 const SITE = {
-  labName: "[Digital Health Communication]",
-  shortName: "[Digital Health Communication Lab]",
-  tagline: "[One-line description of what your lab studies, e.g. 'Machine learning for healthcare']",
-  university: "[University Name]",
-  department: "[Department Name]",
+  labName: "Digital Health Communication",
+  shortName: "Digital Health Communication Lab",
+  tagline: "Innovative and Rigorous Digital Health Communication Research for Public Health",
+  university: "Virginia Commonewalth University",
+  department: "Social and Behavioral Health",
   universityUrl: "https://[university-website.edu]",
   logoUrl: "",               // optional: URL or local path to your lab logo
   address: "[Building & Room, Street Address, City, Country]",
