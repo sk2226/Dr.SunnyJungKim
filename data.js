@@ -21,14 +21,14 @@ const SITE = {
 };
 
 const PROFESSOR = {
-  name: "[Prof. First Last]",
-  title: "[Professor / Associate Professor]",
+  name: "Prof. Sunny Jung Kim",
+  title: "Associate Professor (tenured)",
   pronouns: "",              // optional
   photo: "",                 // URL or local path to a headshot, e.g. "assets/prof.jpg"
   office: "[Building, Room 000]",
-  email: "[professor@university.edu]",
+  email: "sjkim2@vcu.edu",
   cv: "",                    // link to CV PDF, e.g. "assets/cv.pdf" — leave "" to hide
-  scholar: "",               // Google Scholar URL
+  scholar: "https://scholar.google.com/citations?user=d1Ie2OEAAAAJ&hl=en",               // Google Scholar URL
   bio: [
     "[Replace with a short 2–3 sentence bio. Who are you, what do you study, and what methods do you use?]",
     "[Optional second paragraph: prior positions, PhD institution, and anything else you want students to know.]",
