@@ -30,13 +30,13 @@ const PROFESSOR = {
   cv: "",                    // link to CV PDF, e.g. "assets/cv.pdf" — leave "" to hide
   scholar: "https://scholar.google.com/citations?user=d1Ie2OEAAAAJ&hl=en",               // Google Scholar URL 
   bio: [
-    "[Our lab advances innovative digital health communication research through theory-informed and evidence-based approaches. We train students to leverage emerging media technologies, computational and statistical methods, and interdisciplinary perspectives to understand and predict health behaviors and outcomes, with the goal of advancing public health.]",
+    "Our lab advances innovative digital health communication research through theory-informed and evidence-based approaches. We train students to leverage emerging media technologies, computational and statistical methods, and interdisciplinary perspectives to understand and predict health behaviors and outcomes, with the goal of advancing public health.",
     "My research focuses on translating theories and principles from communication and psychology into innovative research approaches, drawing on social and behavioral science methodologies to examine communication processes that explain public health phenomena and influence health behavior. My work particularly focuses on cancer prevention and control and substance use and addiction. In conducting this research, I enjoy leveraging media technologies and emerging innovations, along with statistical and linguistic analyses, to predict health outcomes and understand the mechanisms underlying health behaviors and communication processes.", 
     "During my predoctoral and postdoctoral training at Cornell and Dartmouth, I was trained by and collaborated with scholars across psychology, health communication, text analysis, quantitative and qualitative methodologies, statistics, psychiatry, population science, and preventive oncology. This interdisciplinary training has shaped the breadth of methodological and research skills I bring to my work and, in turn, to my mentorship. I train graduate students in these skills, helping them develop the interdisciplinary perspectives and methodological expertise needed to pursue their own research questions.",
   ],
   education: [
-    {degree: "Ph.D. and M.S. in Communication", school: "Cornell University", year:},
-    {degree: "M.A. in Media, Culture, and Communication", school: "New York University", year:},
+    {degree: "Ph.D. and M.S. in Communication", school: "Cornell University"},
+    {degree: "M.A. in Media, Culture, and Communication", school: "New York University"},
    ],
 };
 
@@ -93,13 +93,13 @@ const PEOPLE = {
   ],
   visitors: [],   // optional: { name, role, affiliation, period }
   staff: [],      // optional: { name, role, topic }
-  alumni: 
+  alumni: [
     { name: "[Alumni Name]", role: "[Ph.D. 2023]", now: "[Now: Postdoc at University X / Engineer at Company Y]" },
        { name: "[Alumni Name]", role: "[Ph.D. 2023]", now: "[Now: Postdoc at University X / Engineer at Company Y]" },
        { name: "[Alumni Name]", role: "[Ph.D. 2023]", now: "[Now: Postdoc at University X / Engineer at Company Y]" },
        { name: "[Alumni Name]", role: "[Ph.D. 2023]", now: "[Now: Postdoc at University X / Engineer at Company Y]" },
     // copy a block to add more; an empty array [] removes this section
-  
+  ],
 };
 
 /* ---------------- PUBLICATIONS & OUTCOMES ---------------- */
