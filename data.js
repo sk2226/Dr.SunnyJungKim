@@ -35,8 +35,8 @@ const PROFESSOR = {
      "During my predoctoral and postdoctoral training at Cornell and Dartmouth, I was trained by and collaborated with scholars across psychology, health communication, text analysis, quantitative and qualitative methodologies, statistics, psychiatry, population science, and preventive oncology. This interdisciplinary training has shaped the breadth of methodological and research skills I bring to my work and, in turn, to my mentorship. I train graduate students in these skills, helping them develop the interdisciplinary perspectives and methodological expertise needed to pursue their own research questions.",
   ,
   education: 
-    { degree: "Ph.D. and M.S. in Communication", school: "Cornell University",},
-    { degree: "M.A. in Media, Culture, and Communication", school: "New York University",},
+    {degree: "Ph.D. and M.S. in Communication", school: "Cornell University"},
+    {degree: "M.A. in Media, Culture, and Communication", school: "New York University"},
   
 };
 
