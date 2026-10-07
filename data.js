@@ -24,7 +24,7 @@ const PROFESSOR = {
   name: "Prof. Sunny Jung Kim",
   title: "Associate Professor (tenured)",
   pronouns: "",              // optional
-  photo: "",                 // URL or local path to a headshot, e.g. "assets/prof.jpg"
+  photo: "sunny jung kim.jpg",                 // URL or local path to a headshot, e.g. "assets/prof.jpg"
   office: "[Building, Room 000]",
   email: "sjkim2@vcu.edu",
   cv: "",                    // link to CV PDF, e.g. "assets/cv.pdf" — leave "" to hide
