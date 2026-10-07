@@ -25,7 +25,7 @@ const PROFESSOR = {
   title: "Associate Professor (tenured)",
   pronouns: "",              // optional
   photo: "sunny jung kim.jpg",                 // URL or local path to a headshot, e.g. "assets/prof.jpg"
-  office: "[Building, Room 000]",
+  office: "OCS 4th FL",
   email: "sjkim2@vcu.edu",
   cv: "",                    // link to CV PDF, e.g. "assets/cv.pdf" — leave "" to hide
   scholar: "https://scholar.google.com/citations?user=d1Ie2OEAAAAJ&hl=en",               // Google Scholar URL
