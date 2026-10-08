@@ -96,7 +96,7 @@ const PEOPLE = {
   alumni: [
        { name: "Sarah Talley", role: "MPH, 2026 Capstone Project: Factors influencing parental intent to vaccinate children against non-mandated vaccines: Influenza, COVID-19, and HPV" },
        { name: "Emily Edwards", role: "Ph.D. 2025", now: "Now: Ph.D. Student in the Department of Health Administration at Virginia Commonwealth University" },
-       { name: "Sarah Gillaspie", role: "MPH, 2023", now: "Hospital Pharmacist at UVA Health" },
+       { name: "Sarah Gillaspie", role: "MPH, 2023", now: "Now: Hospital Pharmacist at UVA Health" },
        { name: "Viktor Clark", role: "Ph.D. 2023", now: "Now: Research Assistant Professor at the University of Rochester Medical Center"},
        { name: "Hannah Ming, PhD, MPH, CHES", role: "Ph.D. 2022", now: "Now: Lead Prevention Specialist U.S. Army Intelligence and Security Command"},
    
