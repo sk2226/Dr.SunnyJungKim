@@ -88,7 +88,7 @@ const PEOPLE = {
     { name: "Farnese Motto", role: "Ph.D. Candidate", topic: "Examining patient-centered communication in Medicaid-covered doula prenatal visits: A computational mixed-methods study", since: "2023", photo: "motto.jpg", website: "https://www.linkedin.com/in/farnesemotto/" },
     { name: "Afua Twumasi", role: "Ph.D. Student", topic: "Social network structure and processes influencing colorectal cancer screening intentions among African American men: An explanatory sequential mixed-methods study", since: "2024", photo: "twumasi.jpg", website: "https://www.linkedin.com/in/afua-twumasi-25b75186/"},
     { name: "Emiolakan Oyeneyin", role: "Ph.D. Student", topic: " Evaluating low-dose computed tomography (LDCT) lung cancer screening status and vaping dynamics among Black Adults", since: "2025", photo: "Oyeneyin.jpg", website: "" },
-    { name: "Lindsey Debosik", role: "Ph.D. Student", topic: "[Project topic]", since: "[YYYY]", photo: "", website: "" },
+    { name: "Lindsey Debosik", role: "Ph.D. Student", topic: "Intimate partner violence and its impact on non-communicable disease behaviors; community-engaged research; prevention science", since: "2026", photo: "Debosik.jpg", website: "" },
     // copy a block to add more; an empty array [] removes this section
   ],
   visitors: [],   // optional: { name, role, affiliation, period }
