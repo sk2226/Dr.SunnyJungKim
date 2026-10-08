@@ -86,7 +86,7 @@ const RESEARCH = {
 const PEOPLE = {
   students: [
     { name: "Farnese Motto", role: "Ph.D. Candidate", topic: "Examining patient-centered communication in Medicaid-covered doula prenatal visits: A computational mixed-methods study", since: "2023", photo: "motto.jpg", website: "https://www.linkedin.com/in/farnesemotto/" },
-    { name: "Afua Twumasi", role: "Ph.D. Student", topic: "Social Network Structure and Processes Influencing Colorectal Cancer Screening Intentions Among African American: An Explanatory Sequential Mixed-Methods Study  ", since: "2024", photo: "", website: "" },
+    { name: "Afua Twumasi", role: "Ph.D. Student", topic: "Social network structure and processes influencing colorectal cancer screening intentions among African American men: An explanatory sequential mixed-methods study", since: "2024", photo: "", website: "" },
     { name: "Emiolakan Oyeneyin", role: "Ph.D. Student", topic: "[Project topic]", since: "[YYYY]", photo: "", website: "" },
     { name: "Lindsey Debosik", role: "Ph.D. Student", topic: "[Project topic]", since: "[YYYY]", photo: "", website: "" },
     // copy a block to add more; an empty array [] removes this section
@@ -95,7 +95,8 @@ const PEOPLE = {
   staff: [],      // optional: { name, role, topic }
   alumni: [
        { name: "Sarah Talley", role: "MPH, 2026", now: "" },
-       { name: "Emily Edwards", role: "Ph.D. 2023", now: "Now: Ph.D. Student in the Department of Health Administration at Virginia Commonwealth University" },
+       { name: "Emily Edwards", role: "Ph.D. 2025", now: "Now: Ph.D. Student in the Department of Health Administration at Virginia Commonwealth University" },
+       { name: "Sarah Gillaspie", role: "MPH, 2023", now: "Hospital Pharmacist at UVA Health" },
        { name: "Viktor Clark", role: "Ph.D. 2023", now: "Now: Research Assistant Professor at the University of Rochester Medical Center"},
        { name: "Hannah Ming, PhD, MPH, CHES", role: "Ph.D. 2022", now: "Now: Lead Prevention Specialist U.S. Army Intelligence and Security Command"},
    
