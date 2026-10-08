@@ -52,9 +52,9 @@ const RESEARCH = {
   overview:
     "[1–2 paragraphs describing the lab's mission and research themes. What big questions do you tackle? What approaches do you use?]",
   areas: [
-    { name: "[Research Area 1]", description: "[2–3 sentences on this theme and its goals.]" },
-    { name: "[Research Area 2]", description: "[2–3 sentences on this theme.]" },
-    { name: "[Research Area 3]", description: "[2–3 sentences on this theme.]" },
+    { name: "Digital Innovation", description: "Leveraging digital media technologies through theoretically rigorous and methodologically sound research", "#AI" },
+    { name: "Health Analytics", description: " Identifying underlying mechanisms and predicting public health outcomes through data-driven research" },
+    { name: "Communication Science", description: " Examining micro- and macro-level message features and communication strategies to inform translation and scale-up" },
   ],
   current: [
     {
