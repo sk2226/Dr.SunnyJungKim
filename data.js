@@ -85,8 +85,8 @@ const RESEARCH = {
 /* ---------------- PEOPLE ---------------- */
 const PEOPLE = {
   students: [
-    { name: "Farnese Motto", role: "Ph.D. Candidate", topic: "[Thesis topic]", since: "[YYYY]", photo: "motto.jpg", website: "" },
-    { name: "Afua Twumasi", role: "Ph.D. Student", topic: "[Project topic]", since: "[YYYY]", photo: "", website: "" },
+    { name: "Farnese Motto", role: "Ph.D. Candidate", topic: "Examining patient-centered communication in Medicaid-covered doula prenatal visits: A computational mixed-methods study", since: "2023", photo: "motto.jpg", website: "https://www.linkedin.com/in/farnesemotto/" },
+    { name: "Afua Twumasi", role: "Ph.D. Student", topic: "Social Network Structure and Processes Influencing Colorectal Cancer Screening Intentions Among African American: An Explanatory Sequential Mixed-Methods Study  ", since: "2024", photo: "", website: "" },
     { name: "Emiolakan Oyeneyin", role: "Ph.D. Student", topic: "[Project topic]", since: "[YYYY]", photo: "", website: "" },
     { name: "Lindsey Debosik", role: "Ph.D. Student", topic: "[Project topic]", since: "[YYYY]", photo: "", website: "" },
     // copy a block to add more; an empty array [] removes this section
