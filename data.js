@@ -109,7 +109,7 @@ const PUBLICATIONS = [
   {
     year: "2026",
     type: "article",
-    authors: "Sunny Jung Kim, Farnese M. Motto, Hannah Ming, Viktor Clark, Susan Hong, Aron H. Lichtman & Vanessa B. Sheppard", [B. Author], [Prof. Name]*",   // * = your lab's author
+    authors: "[A. author], [B. Author], [Prof. Name]*",   // * = your lab's author
     title: "Perspectives on Cannabis Use among Cancer Survivors and Cancer Care Providers: Parallel Surveys",
     venue: "Journal of Cancer Education",
     award: "",        // e.g. "Best Paper Award" — leave "" to hide
