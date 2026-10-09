@@ -203,7 +203,7 @@
         `<div class="stat"><span class="stat-value">${val(s.value)}</span><span class="stat-label">${val(s.label)}</span></div>`).join("")}</div>
       ${OUTCOMES.grants.length ? `<h2>Grants &amp; funding</h2><ul class="plain">` +
         OUTCOMES.grants.map((g) => `<li><strong>${val(g.title)}</strong> — ${val(g.funder)}, ${val(g.amount)}, ${val(g.period)} (${val(g.role)})</li>`).join("") + `</ul>` : ""}
-      ${OUTCOMES.talks.length ? `<h2>Invited talks</h2><ul class="plain">` +
+      ${OUTCOMES.talks.length ? `<h2>Conferences and invited talks</h2><ul class="plain">` +
         OUTCOMES.talks.map((t) => `<li><strong>${val(t.title)}</strong> — ${val(t.event)}, ${val(t.date)}</li>`).join("") + `</ul>` : ""}
       ${OUTCOMES.software.length ? `<h2>Software &amp; datasets</h2><ul class="plain">` +
         OUTCOMES.software.map((s) => `<li><strong>${s.url ? `<a href="${esc(s.url)}">${esc(s.name)}</a>` : val(s.name)}</strong> — ${val(s.description)}</li>`).join("") + `</ul>` : ""}`;
@@ -227,7 +227,7 @@
         <div class="card"><h3>📍 Address</h3><p>${val(SITE.address)}</p></div>
         <div class="card"><h3>✉ Email</h3><p><a href="mailto:${esc(SITE.email)}">${val(SITE.email)}</a></p></div>
         <div class="card"><h3>🧑‍🏫 Professor</h3><p>${val(PROFESSOR.name)}<br><a href="mailto:${esc(PROFESSOR.email)}">${val(PROFESSOR.email)}</a></p></div>
-        <div class="card"><h3>🤝 Joining the lab</h3><p>[Describe how students can join: openings, application process, what to include in an email.]</p></div>
+        <div class="card"><h3>🤝 Joining the lab</h3><p>[For inquiries, please contact Dr. Kim at sjkim2@vcu.edu.]</p></div>
       </div>`;
   }
 })();
