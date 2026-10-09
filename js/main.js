@@ -67,7 +67,7 @@
         <p class="kicker">${esc(SITE.department)} · ${esc(SITE.university)}</p>
         <h1>${val(SITE.labName)}</h1>
         <p class="tagline">${val(SITE.tagline)}</p>
-        <p>${val(PROFESSOR.bio[0] || "")}</p>
+        <p>${val(SITE.headline || "")}</p>
         <div class="hero-actions">
           <a class="btn" href="research.html">Explore our research</a>
           <a class="btn ghost" href="people.html">Meet the team</a>
