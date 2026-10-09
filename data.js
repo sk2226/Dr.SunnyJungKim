@@ -9,6 +9,7 @@ const SITE = {
   labName: "Digital Health Communication",
   shortName: "Digital Health Communication Lab",
   tagline: "Innovative & Rigorous Digital Health Communication Research for Public Health",
+  headline: "Our lab advances innovative digital health communication research through theory-informed and evidence-based approaches. We train students to leverage emerging media technologies, computational and statistical methods, and interdisciplinary perspectives to understand and predict health behaviors and outcomes, with the goal of advancing public health.",
   university: "Dr. Sunny Jung Kim",
   universityUrl: "https://sph.vcu.edu/about/portfolio/details/sjkim2/",
   logoUrl: "dhc_Logo1.png",               // optional: URL or local path to your lab logo
