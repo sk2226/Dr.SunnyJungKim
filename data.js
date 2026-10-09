@@ -116,6 +116,16 @@ const PUBLICATIONS = [
     links: { pdf: "", code: "", doi: "https://link.springer.com/article/10.1007/s13187-026-02934-w" },   // fill any you have; empty ones are hidden
     abstract: "[Optional: 2–3 sentence abstract. Leave '' to hide.]",
   },
+   {
+    year: "2025",
+    type: "article",
+    title: "Leveraging Artificial Intelligence-Mediated Communication for Cancer Prevention and Control and Drug Addiction: A Systematic Review ",
+    authors: "Sunny Jung Kim, Viktor Clark, Jeff T. Hancock, Reza Rawassizadeh, Hongfang Liu, Emmanuel A. Taylor, Vanessa B. Sheppard",
+     venue: "Translational Behavioral Medicine",
+    award: "",        // e.g. "Best Paper Award" — leave "" to hide
+    links: { pdf: "", code: "", doi: "https://academic.oup.com/tbm/article/15/1/ibaf007/8046610?login=true" },   // fill any you have; empty ones are hidden
+    abstract: "[Optional: 2–3 sentence abstract. Leave '' to hide.]",
+  },
   // copy this block to add more publications (they are grouped by year automatically)
 ];
 
