@@ -10,7 +10,6 @@ const SITE = {
   shortName: "Digital Health Communication Lab",
   tagline: "Innovative & Rigorous Digital Health Communication Research for Public Health",
   university: "Dr. Sunny Jung Kim",
-  department: "",
   universityUrl: "https://sph.vcu.edu/about/portfolio/details/sjkim2/",
   logoUrl: "dhc_Logo1.png",               // optional: URL or local path to your lab logo
   address: "Richmond VA, USA",
@@ -50,9 +49,9 @@ const NEWS = [
 /* ---------------- RESEARCH ---------------- */
 const RESEARCH = {
   overview:
-    "[1–2 paragraphs describing the lab's mission and research themes. What big questions do you tackle? What approaches do you use?]",
+    "Our lab advances innovative and rigorous digital health communication research to address complex public health challenges. We investigate how communication processes shape health knowledge, attitudes, decisions, and behaviors; what individual, social, and contextual factors explain or predict health outcomes; and how effective communication strategies can be translated and scaled to improve public health. We integrate communication theory, behavioral and social science, computational methods, statistical and linguistic analyses, and emerging digital technologies to examine message-level features and broader communication patterns, develop and evaluate evidence-based interventions, and identify mechanisms of change. Our research focuses on cancer prevention and survivorship, substance use and addiction, and other pressing public health concerns, with the goal of advancing both scientific understanding and real-world impact.",
   areas: [
-    { name: "Digital Innovation", description: "Leveraging digital media technologies through theoretically rigorous and methodologically sound research", "#AI" },
+    { name: "Digital Innovation", description: "Leveraging digital media technologies through theoretically rigorous and methodologically sound research", value: "#AI" },
     { name: "Health Analytics", description: " Identifying underlying mechanisms and predicting public health outcomes through data-driven research" },
     { name: "Communication Science", description: " Examining micro- and macro-level message features and communication strategies to inform translation and scale-up" },
   ],
