@@ -107,13 +107,13 @@ const PEOPLE = {
 /* type: "conference" | "journal" | "workshop" | "preprint" | "other" */
 const PUBLICATIONS = [
   {
-    year: "[YYYY]",
-    type: "conference",
-    authors: "[A. Author], [B. Author], [Prof. Name]*",   // * = your lab's author
-    title: "[Full Paper Title]",
-    venue: "[Conference/Journal Name]",
+    year: "2026",
+    type: "article",
+    authors: "Sunny Jung Kim, Farnese M. Motto, Hannah Ming, Viktor Clark, Susan Hong, Aron H. Lichtman & Vanessa B. Sheppard", [B. Author], [Prof. Name]*",   // * = your lab's author
+    title: "Perspectives on Cannabis Use among Cancer Survivors and Cancer Care Providers: Parallel Surveys",
+    venue: "Journal of Cancer Education",
     award: "",        // e.g. "Best Paper Award" — leave "" to hide
-    links: { pdf: "", code: "", doi: "" },   // fill any you have; empty ones are hidden
+    links: { pdf: "", code: "", doi: "doi.org/10.1007/s13187-026-02934-w" },   // fill any you have; empty ones are hidden
     abstract: "[Optional: 2–3 sentence abstract. Leave '' to hide.]",
   },
   // copy this block to add more publications (they are grouped by year automatically)
@@ -121,17 +121,17 @@ const PUBLICATIONS = [
 
 const OUTCOMES = {
   stats: [
-    { label: "[Publications]", value: "[##]" },
-    { label: "[Grants funded]", value: "[##]" },
-    { label: "[Ph.D. graduates]", value: "[##]" },
-    { label: "[Total funding]", value: "[$ #.#M]" },
+    { label: "Publications", value: "45+" },
+    { label: "Grants funded", value: "17" },
+    { label: "Graduate Students Mentored", value: "19" },
+    { label: "Total funding", value: "$8M+" },
   ],
   grants: [
     { title: "[Grant / Award Title]", funder: "[Agency]", amount: "[$ ###,###]", period: "[YYYY–YYYY]", role: "[PI / Co-PI]" },
     // copy to add more; empty array [] hides this section
   ],
   talks: [
-    { title: "[Invited talk title]", event: "[Event / Venue]", date: "[Month YYYY]" },
+    { title: "What drives effective mHealth messages for cancer pain?: Preliminary evidence from NLP and message-testing experiment", event: "American Public Health Association", date: "November 2026"},
   ],
   software: [
     { name: "[Tool / Dataset Name]", description: "[What it does]", url: "" },
