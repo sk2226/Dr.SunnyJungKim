@@ -133,7 +133,7 @@ const OUTCOMES = {
   stats: [
     { label: "Publications", value: "45+" },
     { label: "Grants funded", value: "17" },
-    { label: "Graduate Students Mentored", value: "19" },
+    { label: "Graduate Students Mentored", value: "20" },
     { label: "Total funding", value: "$8M+" },
   ],
   grants: [
