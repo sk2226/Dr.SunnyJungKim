@@ -110,7 +110,7 @@ const PUBLICATIONS = [
     year: "2026",
     type: "article",
     title: "Perspectives on Cannabis Use among Cancer Survivors and Cancer Care Providers: Parallel Surveys",
-    authors: "Sunny Jung Kim, Farnese Motto, [Prof. Name]*",
+    authors: "Sunny Jung Kim, Farnese Motto, Hannah Ming, Viktor Clark, Susan Hong, Aron H. Lichtman, Vanessa B. Sheppard*",
      venue: "Journal of Cancer Education",
     award: "",        // e.g. "Best Paper Award" — leave "" to hide
     links: { pdf: "", code: "", doi: "https://link.springer.com/article/10.1007/s13187-026-02934-w" },   // fill any you have; empty ones are hidden
