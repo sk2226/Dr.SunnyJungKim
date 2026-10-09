@@ -109,11 +109,10 @@ const PUBLICATIONS = [
   {
     year: "2026",
     type: "article",
-    authors: "[A. author], [B. Author], [Prof. Name]*",   // * = your lab's author
     title: "Perspectives on Cannabis Use among Cancer Survivors and Cancer Care Providers: Parallel Surveys",
     venue: "Journal of Cancer Education",
     award: "",        // e.g. "Best Paper Award" — leave "" to hide
-    links: { pdf: "", code: "", doi: "doi.org/10.1007/s13187-026-02934-w" },   // fill any you have; empty ones are hidden
+    links: { pdf: "", code: "", doi: "https://link.springer.com/article/10.1007/s13187-026-02934-w" },   // fill any you have; empty ones are hidden
     abstract: "[Optional: 2–3 sentence abstract. Leave '' to hide.]",
   },
   // copy this block to add more publications (they are grouped by year automatically)
