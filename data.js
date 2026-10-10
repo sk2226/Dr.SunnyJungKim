@@ -42,7 +42,7 @@ const PROFESSOR = {
 /* ---------------- NEWS ---------------- */
 const NEWS = [
   { date: "2026-09-14", text: "Drs. Tossas and Kim Receive ACS Grant to Launch Cancer Health Engagement and Action Research Center", website:"https://blogs.vcu.edu/sbs/2026/09/14/new-grant-awarded-for-cancer-health-engagement-and-action-research-center/ "},
-  { date: "2026-09-01", text: "Two Ph.D. students, Lindsey Debosik and Emiolakan Oyeneyin join the lab" },
+  { date: "2026-09", text: "Two Ph.D. students, Lindsey Debosik and Emiolakan Oyeneyin join the lab" },
   // add more: { date: "...", text: "..." },
 ];
 
