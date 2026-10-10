@@ -41,7 +41,7 @@ const PROFESSOR = {
 
 /* ---------------- NEWS ---------------- */
 const NEWS = [
-   {date: "2026-10", text: "Dr. Kim and Colleagues Launch Call for Papers on 'Artificial Intelligence in Public Health Communication Research' in",
+   {date: "2026-10", text: "Dr. Kim and Colleagues Launch Call for Papers on 'Artificial Intelligence in Public Health Communication Research' in Frontiers in Communication",
     website: "https://www.frontiersin.org/research-topics/84332/artificial-intelligence-in-public-health-communication-research",
     websiteLabel: "Frontiers in Communication"
   },
