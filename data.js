@@ -41,12 +41,9 @@ const PROFESSOR = {
 
 /* ---------------- NEWS ---------------- */
 const NEWS = [
-   {date: "2026-10", text: "Dr. Kim and Colleagues Launch Call for Papers on 'Artificial Intelligence in Public Health Communication Research' in Frontiers in Communication",
-    website: "https://www.frontiersin.org/research-topics/84332/artificial-intelligence-in-public-health-communication-research",
-    websiteLabel: "Frontiers in Communication"
-  },
+   {date: "2026-10", text: "Dr. Kim and Colleagues Launch Call for Papers on 'Artificial Intelligence in Public Health Communication Research' in Frontiers in Communication", website: "https://www.frontiersin.org/research-topics/84332/artificial-intelligence-in-public-health-communication-research/"},
    { date: "2026-09-14", text: "Drs. Tossas and Kim Receive ACS Grant to Launch Cancer Health Engagement and Action Research Center", website:"https://blogs.vcu.edu/sbs/2026/09/14/new-grant-awarded-for-cancer-health-engagement-and-action-research-center/ "},
-  { date: "2026-09", text: "Two Ph.D. students, Lindsey Debosik and Emiolakan Oyeneyin join the lab" },
+  { date: "2026-09", text: "Two Ph.D. students, Lindsey Debosik and Emiolakan Oyeneyin, join the lab" },
   // add more: { date: "...", text: "..." },
 ];
 
