@@ -210,13 +210,21 @@
   }
 
   /* ---------- News ---------- */
-  if (page === "news") {
-    const sorted = [...NEWS].sort((a, b) => String(b.date).localeCompare(String(a.date)));
-    $("#news-list").innerHTML = sorted.length
-      ? `<ul class="news-list big">` + sorted.map((n) =>
-          `<li><span class="news-date">${val(n.date)}</span><span>${val(n.text)}</span></li>`).join("") + `</ul>`
-      : `<p class="placeholder">Add news items in data.js (NEWS)</p>`;
-  }
+ if (page === "news") {
+  const sorted = [...NEWS].sort((a, b) => String(b.date).localeCompare(String(a.date)));
+  $("#news-list").innerHTML = sorted.length
+    ? `<ul class="news-list big">` + sorted.map((n) =>
+        `<li>
+          <span class="news-date">${val(n.date)}</span>
+          <span>
+            ${val(n.text)}
+            ${n.website
+              ? ` <a href="${esc(n.website)}" target="_blank" rel="noopener">${val(n.websiteLabel || "Read more")}</a>`
+              : ""}
+          </span>
+        </li>`).join("") + `</ul>`
+    : `<p class="placeholder">Add news items in data.js (NEWS)</p>`;
+}
 
   /* ---------- Contact ---------- */
   if (page === "contact") {
