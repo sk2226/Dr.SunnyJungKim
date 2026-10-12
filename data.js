@@ -64,7 +64,7 @@ const RESEARCH = {
       funding: "NIH P50MD017319 National Institute on Minority Health and Health Disparities (NIMHD) Pilot Funds | Wright Center Translational Pilot Grant | Role: PI", 
       image: "",   // optional image URL
       description: 
-        "[What the project does, its approach, and expected outcomes. 2–4 sentences.]",
+        "We examine message-level (micro) and intervention-level (macro) communication strategies to develop an app-based intervention for cancer pain and symptom management.",
       outcomes: ["[Key outcome or milestone 1]", "[Key outcome or milestone 2]"],
     },
       {
