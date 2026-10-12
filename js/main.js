@@ -122,10 +122,10 @@
           ${(p.outcomes || []).length ? `<p class="outcomes"><strong>Outcomes:</strong> ${p.outcomes.map(val).join(" · ")}</p>` : ""}
         </div>
       </article>`;
-    $("#research-current").innerHTML = `<h2>Current projects</h2>` +
+    $("#research-current").innerHTML = `<h2>Current projects [selected] </h2>` +
       (RESEARCH.current.length ? RESEARCH.current.map((p) => project(p, false)).join("")
         : `<p class="placeholder">Add current projects in data.js (RESEARCH.current)</p>`);
-    $("#research-past").innerHTML = `<h2>Past projects</h2>` +
+    $("#research-past").innerHTML = `<h2>Past projects [selected]</h2>` +
       (RESEARCH.past.length ? RESEARCH.past.map((p) => project(p, true)).join("")
         : `<p class="placeholder">Add past projects in data.js (RESEARCH.past)</p>`);
   }
