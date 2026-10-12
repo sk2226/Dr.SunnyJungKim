@@ -60,8 +60,8 @@ const RESEARCH = {
     {
       title: "mHealth app based interventions to support self-management of pain and quality of life in cancer survivors",
       area: "mHealth",
-      period: "[2024–]",
-      funding: "NIH P50MD017319 National Institute on Minority Health and Health Disparities (NIMHD) Pilot Funds", "Wright Center Translational Pilot Grant", "Role: PI", 
+      period: "2024–",
+      funding: "NIH P50MD017319 National Institute on Minority Health and Health Disparities (NIMHD) Pilot Funds; Wright Center Translational Pilot Grant; Role: PI", 
       image: "",   // optional image URL
       description: 
         "[What the project does, its approach, and expected outcomes. 2–4 sentences.]",
@@ -69,7 +69,7 @@ const RESEARCH = {
     },
       {
       title: "Impact on sharing facts, engagement, and decision-making (“MISFED”) about cancer",
-      area: "eHealth", "social media"
+      area: "eHealth" , "social media",
        period: "2026–2030",
       funding: "ACS CHERC (Role: Co-I, Parent PI: Baskin; Project PI: Tossas)",
       image: "",   // optional image URL
