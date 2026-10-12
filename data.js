@@ -58,22 +58,31 @@ const RESEARCH = {
   ],
   current: [
     {
-      title: "[Current Project Title]",
-      area: "[Related research area]",
-      period: "[2025–2028]",
-      funding: "[Funding source, e.g. NSF Grant #000000 / University startup]",
+      title: "mHealth app based interventions to support self-management of pain and quality of life in cancer survivors",
+      area: "mHealth",
+      period: "[2024–]",
+      funding: "NIH P50MD017319 National Institute on Minority Health and Health Disparities (NIMHD) Pilot Funds", "Wright Center Translational Pilot Grant" "Role: PI", 
       image: "",   // optional image URL
-      description:
+      description: 
+        "[What the project does, its approach, and expected outcomes. 2–4 sentences.]",
+      outcomes: ["[Key outcome or milestone 1]", "[Key outcome or milestone 2]"],
+    },
+      {
+      title: "Impact on sharing facts, engagement, and decision-making (“MISFED”) about cancer",
+      area: "eHealth", "social media"
+       period: "2026–2030",
+      funding: "ACS CHERC (Role: Co-I, Parent PI: Baskin; Project PI: Tossas)",
+      image: "",   // optional image URL
+      description: 
         "[What the project does, its approach, and expected outcomes. 2–4 sentences.]",
       outcomes: ["[Key outcome or milestone 1]", "[Key outcome or milestone 2]"],
     },
     // add more current projects by copying this block
   ],
   past: [
-    {
-      title: "[Past Project Title]",
-      period: "[2019–2024]",
-      funding: "[Funding source]",
+    {      title: "Multidisciplinary Analysis of Vaccination Games for Equity (MAVEN)",
+      period: "2023–2026",
+      funding: "NSF (Role: Co-PI; PI: Taylor)",
       image: "",
       description: "[Summary of the completed project and its final outcome.]",
       outcomes: ["[Result, e.g. 'Published 5 papers', 'Tool released: link]"],
