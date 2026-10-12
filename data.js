@@ -74,7 +74,7 @@ const RESEARCH = {
       funding: "ACS CHERC (Role: Co-I, Parent PI: Baskin; Project PI: Tossas)",
       image: "",   // optional image URL
       description: 
-        "[What the project does, its approach, and expected outcomes. 2–4 sentences.]",
+        "To identify age-specific cognitive and social pathways underlying receptivity to cancer prevention misinformation and assess health district directors’ readiness to address it.",
       outcomes: ["[Key outcome or milestone 1]", "[Key outcome or milestone 2]"],
     },
     // add more current projects by copying this block
