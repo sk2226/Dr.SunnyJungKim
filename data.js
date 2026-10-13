@@ -153,7 +153,4 @@ const OUTCOMES = {
   talks: [
     { title: "What drives effective mHealth messages for cancer pain?: Preliminary evidence from NLP and message-testing experiment", event: "American Public Health Association", date: "November 2026"},
   ],
-  software: [
-    { name: "[Tool / Dataset Name]", description: "[What it does]", url: "" },
-  ],
 };
