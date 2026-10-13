@@ -204,9 +204,7 @@
       ${OUTCOMES.grants.length ? `<h2>Grants &amp; funding</h2><ul class="plain">` +
         OUTCOMES.grants.map((g) => `<li><strong>${val(g.title)}</strong> — ${val(g.funder)}, ${val(g.amount)}, ${val(g.period)} (${val(g.role)})</li>`).join("") + `</ul>` : ""}
       ${OUTCOMES.talks.length ? `<h2>Conferences and invited talks</h2><ul class="plain">` +
-        OUTCOMES.talks.map((t) => `<li><strong>${val(t.title)}</strong> — ${val(t.event)}, ${val(t.date)}</li>`).join("") + `</ul>` : ""}
-      ${OUTCOMES.software.length ? `<h2>Software &amp; datasets</h2><ul class="plain">` +
-        OUTCOMES.software.map((s) => `<li><strong>${s.url ? `<a href="${esc(s.url)}">${esc(s.name)}</a>` : val(s.name)}</strong> — ${val(s.description)}</li>`).join("") + `</ul>` : ""}`;
+        OUTCOMES.talks.map((t) => `<li><strong>${val(t.title)}</strong> — ${val(t.event)}, ${val(t.date)}</li>`).join("") + `</ul>` : ""}`;
   }
 
   /* ---------- News ---------- */
