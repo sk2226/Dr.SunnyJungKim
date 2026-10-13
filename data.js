@@ -84,7 +84,7 @@ const RESEARCH = {
       period: "2023–2026",
       funding: "NSF | Role: Co-PI | PI: Taylor",
       image: "",
-      description: "[Summary of the completed project and its final outcome.]",
+      description: "We aim to (1) develop a general framework of vaccine uptake that incorporates individual, social, and structural factors by analyzing a variety of secondary datasets; (2) collect primary survey data and use the framework to develop universal vaccine uptake (as well as vaccine refusal) models that are broadly applicable to infection diseases (e.g., HPV, COVID-19, mpox, flu) and future outbreaks; and (3) develop an epi-model to conduct retrospective and prospective vaccine acceptance and hesitance/refusal models.",
       outcomes: ["Paper 1: https://link.springer.com/article/10.1007/s13235-025-00697-5", "Tool released: link"],
     },
     // add more past projects by copying this block
