@@ -147,8 +147,7 @@ const OUTCOMES = {
     { label: "Total funding", value: "$8M+" },
   ],
   grants: [
-    { title: "[Grant / Award Title]", funder: "[Agency]", amount: "[$ ###,###]", period: "[YYYY–YYYY]", role: "[PI / Co-PI]" },
-    // copy to add more; empty array [] hides this section
+    
   ],
   talks: [
     { title: "What drives effective mHealth messages for cancer pain?: Preliminary evidence from NLP and message-testing experiment", event: "American Public Health Association", date: "November 2026"},
