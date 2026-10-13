@@ -9,7 +9,7 @@ const SITE = {
   labName: "Digital Health Communication",
   shortName: "Digital Health Communication Lab",
   tagline: "Innovative & Rigorous Digital Health Communication Research for Public Health",
-  headline: "Our lab advances innovative digital health communication research through theory-informed and evidence-based approaches. We train students to leverage emerging media technologies, computational and statistical methods, and interdisciplinary perspectives to understand and predict health behaviors and outcomes, with the goal of advancing public health.",
+  headline: "Our lab advances innovative digital health communication research through theory-informed and evidence-based approaches. We train students to leverage emerging media technologies, computa[...]
   university: "Dr. Sunny Jung Kim",
   universityUrl: "https://sph.vcu.edu/about/portfolio/details/sjkim2/",
   logoUrl: "dhc_Logo1.png",               // optional: URL or local path to your lab logo
@@ -30,8 +30,8 @@ const PROFESSOR = {
   cv: "",                    // link to CV PDF, e.g. "assets/cv.pdf" — leave "" to hide
   scholar: "https://scholar.google.com/citations?user=d1Ie2OEAAAAJ&hl=en",               // Google Scholar URL 
    bio: [
-    "My research focuses on translating theories and principles from communication and psychology into innovative research approaches, drawing on social and behavioral science methodologies to examine communication processes that explain public health phenomena and influence health behavior. My work particularly focuses on cancer prevention and control and substance use and addiction. In conducting this research, I enjoy leveraging media technologies and emerging innovations, along with statistical and linguistic analyses, to predict health outcomes and understand the mechanisms underlying health behaviors and communication processes.", 
-    "During my predoctoral and postdoctoral training at Cornell and Dartmouth, I was trained by and collaborated with scholars across psychology, health communication, text analysis, quantitative and qualitative methodologies, statistics, psychiatry, population science, and preventive oncology. This interdisciplinary training has shaped the breadth of methodological and research skills I bring to my work and, in turn, to my mentorship. I train graduate students in these skills, helping them develop the interdisciplinary perspectives and methodological expertise needed to pursue their own research questions.",
+    "My research focuses on translating theories and principles from communication and psychology into innovative research approaches, drawing on social and behavioral science methodologies to examine[...]
+    "During my predoctoral and postdoctoral training at Cornell and Dartmouth, I was trained by and collaborated with scholars across psychology, health communication, text analysis, quantitative and [...]
   ],
   education: [
     {degree: "Ph.D. and M.S. in Communication", school: "Cornell University"},
@@ -41,8 +41,8 @@ const PROFESSOR = {
 
 /* ---------------- NEWS ---------------- */
 const NEWS = [
-   {date: "2026-10-09", text: "Dr. Kim and Colleagues Launch Call for Papers on 'Artificial Intelligence in Public Health Communication Research' in Frontiers in Communication", website: "https://www.frontiersin.org/research-topics/84332/artificial-intelligence-in-public-health-communication-research/"},
-   { date: "2026-09-14", text: "Drs. Tossas and Kim Receive ACS Grant to Launch Cancer Health Engagement and Action Research Center", website:"https://blogs.vcu.edu/sbs/2026/09/14/new-grant-awarded-for-cancer-health-engagement-and-action-research-center/ "},
+   {date: "2026-10-09", text: "Dr. Kim and Colleagues Launch Call for Papers on 'Artificial Intelligence in Public Health Communication Research' in Frontiers in Communication", website: "https://www.[...]
+   { date: "2026-09-14", text: "Drs. Tossas and Kim Receive ACS Grant to Launch Cancer Health Engagement and Action Research Center", website:"https://blogs.vcu.edu/sbs/2026/09/14/new-grant-awarded-fo[...]
   { date: "2026-09", text: "Two Ph.D. students, Lindsey Debosik and Emiolakan Oyeneyin, join the lab" },
   // add more: { date: "...", text: "..." },
 ];
@@ -50,7 +50,7 @@ const NEWS = [
 /* ---------------- RESEARCH ---------------- */
 const RESEARCH = {
   overview:
-    "Our lab advances innovative and rigorous digital health communication research to address complex public health challenges. We investigate how communication processes shape health knowledge, attitudes, decisions, and behaviors; what individual, social, and contextual factors explain or predict health outcomes; and how effective communication strategies can be translated and scaled to improve public health. We integrate communication theory, behavioral and social science, computational methods, statistical and linguistic analyses, and emerging digital technologies to examine message-level features and broader communication patterns, develop and evaluate evidence-based interventions, and identify mechanisms of change. Our research focuses on cancer prevention and survivorship, substance use and addiction, and other pressing public health concerns, with the goal of advancing both scientific understanding and real-world impact.",
+    "Our lab advances innovative and rigorous digital health communication research to address complex public health challenges. We investigate how communication processes shape health knowledge, atti[...]
   areas: [
     { name: "Digital Innovation", description: "Leveraging digital media technologies through theoretically rigorous and methodologically sound research", value: "#AI" },
     { name: "Health Analytics", description: " Identifying underlying mechanisms and predicting public health outcomes through data-driven research" },
@@ -85,7 +85,7 @@ const RESEARCH = {
       funding: "NSF | Role: Co-PI | PI: Taylor",
       image: "",
       description: "[Summary of the completed project and its final outcome.]",
-      outcomes: ["Paper 1: https://link.springer.com/article/10.1007/s13235-025-00697-5", "Tool released: link"],
+      outcomes: ["<a href=\"https://link.springer.com/article/10.1007/s13235-025-00697-5\" target=\"_blank\" rel=\"noopener noreferrer\">Paper 1</a>", "Tool released: link"],
     },
     // add more past projects by copying this block
   ],
@@ -94,10 +94,10 @@ const RESEARCH = {
 /* ---------------- PEOPLE ---------------- */
 const PEOPLE = {
   students: [
-    { name: "Farnese Motto", role: "Ph.D. Candidate", topic: "Examining patient-centered communication in Medicaid-covered doula prenatal visits: A computational mixed-methods study", since: "2023", photo: "motto.jpg", website: "https://www.linkedin.com/in/farnesemotto/" },
-    { name: "Afua Twumasi", role: "Ph.D. Student", topic: "Social network structure and processes influencing colorectal cancer screening intentions among African American men: An explanatory sequential mixed-methods study", since: "2024", photo: "twumasi.jpg", website: "https://www.linkedin.com/in/afua-twumasi-25b75186/"},
-    { name: "Emiolakan Oyeneyin", role: "Ph.D. Student", topic: " Evaluating low-dose computed tomography (LDCT) lung cancer screening status and vaping dynamics among Black Adults", since: "2025", photo: "Oyeneyin.jpg", website: "" },
-    { name: "Lindsey Debosik", role: "Ph.D. Student", topic: "Intimate partner violence and its impact on non-communicable disease behaviors; community-engaged research; prevention science", since: "2026", photo: "Debosik.jpg", website: "" },
+    { name: "Farnese Motto", role: "Ph.D. Candidate", topic: "Examining patient-centered communication in Medicaid-covered doula prenatal visits: A computational mixed-methods study", since: "2023", p[...]
+    { name: "Afua Twumasi", role: "Ph.D. Student", topic: "Social network structure and processes influencing colorectal cancer screening intentions among African American men: An explanatory sequenti[...]
+    { name: "Emiolakan Oyeneyin", role: "Ph.D. Student", topic: " Evaluating low-dose computed tomography (LDCT) lung cancer screening status and vaping dynamics among Black Adults", since: "2025", ph[...]
+    { name: "Lindsey Debosik", role: "Ph.D. Student", topic: "Intimate partner violence and its impact on non-communicable disease behaviors; community-engaged research; prevention science", since: "2[...]
     // copy a block to add more; an empty array [] removes this section
   ],
   visitors: [],   // optional: { name, role, affiliation, period }
@@ -151,7 +151,7 @@ const OUTCOMES = {
     // copy to add more; empty array [] hides this section
   ],
   talks: [
-    { title: "What drives effective mHealth messages for cancer pain?: Preliminary evidence from NLP and message-testing experiment", event: "American Public Health Association", date: "November 2026"},
+    { title: "What drives effective mHealth messages for cancer pain?: Preliminary evidence from NLP and message-testing experiment", event: "American Public Health Association", date: "November 2026" },
   ],
   software: [
     { name: "[Tool / Dataset Name]", description: "[What it does]", url: "" },
