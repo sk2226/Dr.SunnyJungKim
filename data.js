@@ -85,7 +85,7 @@ const RESEARCH = {
       funding: "NSF | Role: Co-PI | PI: Taylor",
       image: "",
       description: "[Summary of the completed project and its final outcome.]",
-      outcomes: ["<a href=\"https://link.springer.com/article/10.1007/s13235-025-00697-5\" target=\"_blank\" rel=\"noopener noreferrer\">Paper 1</a>", "Tool released: link"],
+      outcomes: "<a href=\"https://link.springer.com/article/10.1007/s13235-025-00697-5\" target=\"_blank\" rel=\"noopener noreferrer\">Paper 1</a>", 
     },
     // add more past projects by copying this block
   ],
