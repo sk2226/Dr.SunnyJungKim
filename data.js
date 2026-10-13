@@ -80,12 +80,12 @@ const RESEARCH = {
     // add more current projects by copying this block
   ],
   past: [
-    {      title: "Multidisciplinary Analysis of Vaccination Games for Equity (MAVEN)",
+    { title: "Multidisciplinary Analysis of Vaccination Games for Equity (MAVEN)",
       period: "2023–2026",
       funding: "NSF | Role: Co-PI | PI: Taylor",
       image: "",
       description: "[Summary of the completed project and its final outcome.]",
-      outcomes: "[Key outcome or milestone 1]", "[Key outcome or milestone 2]", 
+      outcomes: ["[Key outcome or milestone 1]", "[Key outcome or milestone 2]"],
     },
     // add more past projects by copying this block
   ],
