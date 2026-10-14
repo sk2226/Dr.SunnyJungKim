@@ -105,7 +105,14 @@
   if (page === "research") {
     $("#research-overview").innerHTML =
       `<h1>Research</h1><p class="lead">${val(RESEARCH.overview)}</p>`;
-    $("#research-areas").innerHTML = `<h2>Research areas</h2><div class="card-grid">` +
+   // inside the `if (page === "research") {` block replace the overview assignment with:
+   $("#research-overview").innerHTML =
+     `<h1>Research</h1>
+      <div class="research-overview-grid">
+     ${isFilled(RESEARCH.overviewImage) ? `<div class="research-photo"><img src="${esc(RESEARCH.overviewImage)}" alt="Research image"></div>` : ""}
+     <p class="lead">${val(RESEARCH.overview)}</p>
+   </div>`;
+     $("#research-areas").innerHTML = `<h2>Research areas</h2><div class="card-grid">` +
       RESEARCH.areas.map((a, i) =>
         `<div class="card"><span class="badge">Area ${i + 1}</span><h3>${val(a.name)}</h3><p>${val(a.description)}</p></div>`).join("") +
       `</div>`;
