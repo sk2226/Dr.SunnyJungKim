@@ -160,6 +160,26 @@ details summary { cursor: pointer; color: var(--accent); }
 .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 20px; padding: 26px 20px; font-size: 0.9rem; }
 .footer-fine { color: var(--muted); align-self: end; }
 
+.research-overview-grid {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+.research-photo img {
+  max-width: 360px;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  object-fit: cover;
+}
+/* stack on small screens */
+@media (max-width: 700px) {
+  .research-overview-grid { flex-direction: column; text-align: center; }
+  .research-photo img { max-width: 100%; }
+}
+
 /* Mobile */
 @media (max-width: 760px) {
   #nav-toggle { display: block; }
