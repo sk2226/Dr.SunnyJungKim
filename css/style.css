@@ -139,6 +139,14 @@ details { margin-top: 6px; font-size: 0.9rem; }
 details summary { cursor: pointer; color: var(--accent); }
 .plain { padding-left: 1.2em; }
 
+/* justify the overview paragraph on the Research page */
+body[data-page="research"] .lead {
+  text-align: justify;
+  text-justify: inter-word;    /* better spacing algorithm in some browsers */
+  text-align-last: left;      /* keep the last line left-aligned instead of stretched */
+  hyphens: auto;              /* allow hyphenation for nicer breaks (optional) */
+}
+
 /* People */
 .pi-card { display: flex; gap: 30px; align-items: flex-start; background: var(--bg-soft); border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; margin-top: 20px; }
 .pi-photo { flex: none; width: 240px; }
