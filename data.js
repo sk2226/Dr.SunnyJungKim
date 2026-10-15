@@ -51,7 +51,7 @@ const NEWS = [
 const RESEARCH = {
   overview:
     "Our lab advances innovative and rigorous digital health communication research to address complex public health challenges. We investigate how communication processes shape health knowledge, attitudes, decisions, and behaviors; what individual, social, and contextual factors explain or predict health outcomes; and how effective communication strategies can be translated and scaled to improve public health. We integrate communication theory, behavioral and social science, computational methods, statistical and linguistic analyses, and emerging digital technologies to examine message-level features and broader communication patterns, develop and evaluate evidence-based interventions, and identify mechanisms of change. Our research focuses on cancer prevention and survivorship, substance use and addiction, and other pressing public health concerns, with the goal of advancing both scientific understanding and real-world impact.",
-  overviewImage: "research-overview.jpg", 
+  overviewImage: "assets/research-overview.jpg", 
    areas: [
     { name: "Digital Innovation", description: "Leveraging digital media technologies through theoretically rigorous and methodologically sound research", value: "#AI" },
     { name: "Health Analytics", description: " Identifying underlying mechanisms and predicting public health outcomes through data-driven research" },
