@@ -240,7 +240,7 @@
         <div class="card"><h3>📍 Address</h3><p>${val(SITE.address)}</p></div>
         <div class="card"><h3>✉ Email</h3><p><a href="mailto:${esc(SITE.email)}">${val(SITE.email)}</a></p></div>
         <div class="card"><h3>🧑‍🏫 Professor</h3><p>${val(PROFESSOR.name)}<br><a href="mailto:${esc(PROFESSOR.email)}">${val(PROFESSOR.email)}</a></p></div>
-        <div class="card"><h3>🤝 Joining the lab</h3><p>[For inquiries, please contact Dr. Kim at sjkim2@vcu.edu.]</p></div>
+        <div class="card"><h3>🤝 Joining the lab</h3><p> For inquiries, please contact Dr. Kim at sjkim2@vcu.edu.</p></div>
       </div>`;
   }
 })();
