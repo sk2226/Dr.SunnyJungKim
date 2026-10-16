@@ -140,14 +140,54 @@ const PUBLICATIONS = [
   {
     year: "2025",
     type: "article",
-    title: " ",
-    authors: "Sunny Jung Kim, Viktor Clark, Jeff T. Hancock, Reza Rawassizadeh, Hongfang Liu, Emmanuel A. Taylor, Vanessa B. Sheppard",
+    title: "mHealth App-Based Ecological Momentary Assessment to Ascertain Tobacco Retail Outlet Exposure, Tobacco Marketing, Tobacco Use, and Susceptibility Among Rural Youth ",
+    authors: "Sunny Jung Kim, Joseph Boyle, Jeremy Barsell, Kendall Fugate-Laus, Elizabeth K. Do, Rashelle B. Hayes, Bernard F. Fuemmeler",
      venue: "Translational Behavioral Medicine",
     award: "",        // e.g. "Best Paper Award" — leave "" to hide
-    links: { pdf: "", code: "", doi: "https://academic.oup.com/tbm/article/15/1/ibaf007/8046610?login=true" },   // fill any you have; empty ones are hidden
+    links: { pdf: "", code: "", doi: "https://academic.oup.com/tbm/article-abstract/15/1/ibaf081/8372000?redirectedFrom=fulltext" },   // fill any you have; empty ones are hidden
     abstract: "[Optional: 2–3 sentence abstract. Leave '' to hide.]",
   },
-];
+   {
+    year: "2025",
+    type: "article",
+    title: "Tobacco Susceptibility and Use Among Rural Adolescents: The Role of Tobacco Marketing Exposure and Screen Media Use",
+    authors: "Sunny Jung Kim, Kendall Fugate-Laus, Jeremy Barsell, Elizabeth K. Do, Rashelle B. Hayes, Bernard F. Fuemmeler",
+     venue: "Nicotine & Tobacco Research",
+    award: "",        // e.g. "Best Paper Award" — leave "" to hide
+    links: { pdf: "", code: "", doi: "https://academic.oup.com/ntr/article/27/6/1127/7931818" },   // fill any you have; empty ones are hidden
+    abstract: "[Optional: 2–3 sentence abstract. Leave '' to hide.]",
+  },
+    {
+    year: "2023",
+    type: "article",
+    title: "Development of the Rural Perception Scale (RPS-18)",
+    authors: "Sunny Jung Kim, Jennifer Alford-Teaster, Jenna E. Schiffelbein, Tracy Onega",
+     venue: "Journal of Rural Health",
+    award: "",        // e.g. "Best Paper Award" — leave "" to hide
+    links: { pdf: "", code: "", doi: "https://onlinelibrary.wiley.com/doi/10.1111/jrh.12795" },   // fill any you have; empty ones are hidden
+    abstract: "[Optional: 2–3 sentence abstract. Leave '' to hide.]",
+  },
+    {
+    year: "2023",
+    type: "article",
+    title: "Racial Disparities in Opioid Prescription and Pain Management Among Breast Cancer Survivors",
+    authors: "Sunny Jung Kim, Reuben P. Retnam, Arnethea L. Sutton, Megan C. Edmonds, Dipankar Bandyopadhyay, Vanessa B. Sheppard",
+     venue: "Cancer Medicine",
+    award: "",        // e.g. "Best Paper Award" — leave "" to hide
+    links: { pdf: "", code: "", doi: "https://onlinelibrary.wiley.com/doi/10.1002/cam4.5755" },   // fill any you have; empty ones are hidden
+    abstract: "[Optional: 2–3 sentence abstract. Leave '' to hide.]",
+  },
+   {
+    year: "2022",
+    type: "article",
+    title: "Countering Antivax Misinformation via Social Media: Message-Testing Randomized Experiment for Human Papillomavirus Vaccination Uptake",
+    authors: "Sunny Jung Kim, Jenna E. Schiffelbein, Inger Imset, Ardis L. Olson",
+     venue: "Journal of Medical Internet Research",
+    award: "",        // e.g. "Best Paper Award" — leave "" to hide
+    links: { pdf: "", code: "", doi: "https://www.sciencedirect.com/org/science/article/pii/S1438887122007361" },   // fill any you have; empty ones are hidden
+    abstract: "[Optional: 2–3 sentence abstract. Leave '' to hide.]",
+  },
+];  
 
 const OUTCOMES = {
   stats: [
