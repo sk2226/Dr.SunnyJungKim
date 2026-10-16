@@ -184,7 +184,7 @@ const PUBLICATIONS = [
     authors: "Sunny Jung Kim, Jenna E. Schiffelbein, Inger Imset, Ardis L. Olson",
      venue: "Journal of Medical Internet Research",
     award: "",        // e.g. "Best Paper Award" — leave "" to hide
-    links: { pdf: "", code: "", doi: "https://www.sciencedirect.com/org/science/article/pii/S1438887122007361" },   // fill any you have; empty ones are hidden
+    links: { pdf: "", code: "", doi: "https://www.jmir.org/2022/11/e37559" },   // fill any you have; empty ones are hidden
     abstract: "[Optional: 2–3 sentence abstract. Leave '' to hide.]",
   },
 ];  
