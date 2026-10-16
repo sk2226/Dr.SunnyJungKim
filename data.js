@@ -137,7 +137,16 @@ const PUBLICATIONS = [
     links: { pdf: "", code: "", doi: "https://academic.oup.com/tbm/article/15/1/ibaf007/8046610?login=true" },   // fill any you have; empty ones are hidden
     abstract: "[Optional: 2–3 sentence abstract. Leave '' to hide.]",
   },
-  // copy this block to add more publications (they are grouped by year automatically)
+  {
+    year: "2025",
+    type: "article",
+    title: " ",
+    authors: "Sunny Jung Kim, Viktor Clark, Jeff T. Hancock, Reza Rawassizadeh, Hongfang Liu, Emmanuel A. Taylor, Vanessa B. Sheppard",
+     venue: "Translational Behavioral Medicine",
+    award: "",        // e.g. "Best Paper Award" — leave "" to hide
+    links: { pdf: "", code: "", doi: "https://academic.oup.com/tbm/article/15/1/ibaf007/8046610?login=true" },   // fill any you have; empty ones are hidden
+    abstract: "[Optional: 2–3 sentence abstract. Leave '' to hide.]",
+  },
 ];
 
 const OUTCOMES = {
