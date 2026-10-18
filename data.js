@@ -12,10 +12,10 @@ const SITE = {
   headline: "Our lab advances innovative digital health communication research through theory-informed and evidence-based approaches. We train students to leverage emerging media technologies, computational and statistical methods, and interdisciplinary perspectives to understand and predict health behaviors and outcomes, with the goal of advancing public health.",
   university: "Dr. Sunny Jung Kim",
   universityUrl: "https://sph.vcu.edu/about/portfolio/details/sjkim2/",
-  logoUrl: "dhc_Logo1.png",               // optional: URL or local path to your lab logo
+  logoUrl: "dhc_Logo1.png",              
   address: "Richmond VA, USA",
   email: "eHealth@vcu.edu",
-  twitter: "https://x.com/SunnyJungKim",               // e.g. "https://x.com/yourhandle" — leave "" to hide
+  twitter: "https://x.com/SunnyJungKim",              
   github: "",                // e.g. "https://github.com/yourlab" — leave "" to hide
   lastUpdated: "October 2026",
 };
@@ -23,7 +23,7 @@ const SITE = {
 const PROFESSOR = {
   name: "Prof. Sunny Jung Kim",
   title: "Associate Professor (tenured)",
-  pronouns: "",              // optional
+  pronouns: "",             
   photo: "sunny jung kim.jpg",                 // URL or local path to a headshot, e.g. "assets/prof.jpg"
   office: "OCS 4th FL",
   email: "sjkim2@vcu.edu",
@@ -66,7 +66,7 @@ const RESEARCH = {
       image: "",   // optional image URL
       description: 
         "We examine message-level (micro) and intervention-level (macro) communication strategies to develop an app-based intervention for cancer pain and symptom management.",
-      outcomes: ["[Key outcome or milestone 1]", "[Key outcome or milestone 2]"],
+      outcomes: ["[Key outcome 1]", "[Key outcome 2]"],
     },
       {
       title: "Impact on sharing facts, engagement, and decision-making (“MISFED”) about cancer",
@@ -76,7 +76,7 @@ const RESEARCH = {
       image: "",   // optional image URL
       description: 
         "To identify age-specific cognitive and social pathways underlying receptivity to cancer prevention misinformation and assess health district directors’ readiness to address it.",
-      outcomes: ["[Key outcome or milestone 1]", "[Key outcome or milestone 2]"],
+      outcomes: ["[Key outcome 1]", "[Key outcome 2]"],
     },
     // add more current projects by copying this block
   ],
