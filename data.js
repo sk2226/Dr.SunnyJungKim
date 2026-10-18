@@ -6,7 +6,7 @@
    ============================================================ */
 
 const SITE = {
-  labName: "Digital Health Communication",
+  labName: "Digital Health Communication Lab",
   shortName: "Digital Health Communication Lab",
   tagline: "Innovative & Rigorous Digital Health Communication Research for Public Health",
   headline: "Our lab advances innovative digital health communication research through theory-informed and evidence-based approaches. We train students to leverage emerging media technologies, computational and statistical methods, and interdisciplinary perspectives to understand and predict health behaviors and outcomes, with the goal of advancing public health.",
