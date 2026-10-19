@@ -23,7 +23,7 @@ const SITE = {
 const PROFESSOR = {
   name: "Prof. Sunny Jung Kim",
   title: "Associate Professor (tenured)",
-  pronouns: "Social and Behavioral Sciences, School of Public Health at Virginia Commonwealth University",             
+  pronouns: "Social and Behavioral Sciences at Virginia Commonwealth University School of Public Health",             
   photo: "sunny jung kim.jpg",                 // URL or local path to a headshot, e.g. "assets/prof.jpg"
   office: "OCS 4th FL",
   email: "sjkim2@vcu.edu",
